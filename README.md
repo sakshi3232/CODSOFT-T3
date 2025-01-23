@@ -7,6 +7,7 @@ This repository showcase the Python-based projects that I developed during my in
 
 
 Task 3: Image Captioning
+
 Combines computer vision and natural language processing to build an image captioning AI.
 
 Features : 
